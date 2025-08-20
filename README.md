@@ -6,15 +6,6 @@ I am passionate about leveraging **AI and machine learning** to solve real-world
 
 ---
 
-## 🔧 Technologies & Tools  
-- **Languages:** Python, SQL, JavaScript  
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-- **MLOps & Tools:** Jupyter Notebook, DVC, GitHub Actions, Docker  
-- **Special Focus:** NLP, Computer Vision, and AI in Agriculture & Education
-
----
-
 ## 📌 Current Focus  
 - Applying **NLP to low-resource languages (e.g., Amharic)**  
 - Exploring **AI applications in precision agriculture & education**  
