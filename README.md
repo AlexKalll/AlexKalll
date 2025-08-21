@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kaletsidik  
 
- **Junior AI Engineer | Data Science & Machine Learning Enthusiast**  
+ **Backend and Mobile App Developer | Junior AI Engineer | Data Science & Machine Learning Enthusiast**  
 
 I am passionate about leveraging **AI and machine learning** to solve real-world problems, particularly in **agriculture & education**.
 
