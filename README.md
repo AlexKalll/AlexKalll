@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Kaletsidik  
+## 👋 Hi, I'm Kal 
 
- **Backend and Mobile App Developer | Junior AI Engineer | Data Science & Machine Learning Enthusiast**  
+ **Junior AI Engineer | Data Science & Machine Learning Enthusiast | Backend and Mobile App Developer**  
 
 I am passionate about leveraging **AI and machine learning** to solve real-world problems, particularly in **agriculture & education**.
 
