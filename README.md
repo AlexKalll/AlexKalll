@@ -10,7 +10,8 @@
 ## 📌 Current Focus  
 - Taking part in a dedicated community striving to achieve **AGI**
 - Applying **NLP to low-resource languages (e.g., Amharic)**  
-- Exploring **AI applications in agriculture & education**  
+- Exploring **AI applications in agriculture & education**
+- Investigating the intersection of **AI and blockchain**
 
 ---
 
@@ -28,4 +29,6 @@
 
 ⭐️ *"Building AI not just for technology’s sake, but for sustainable futures."* 
 
-If you’re curious to hear more about the vision of AI for good from AI's mouth itself, check out [this inspiring talk](https://youtu.be/1y3XdwTa1cA)!
+If you’re curious to hear more about the vision of AI from their mouth, check out 
+
+[this inspiring talk](https://youtu.be/1y3XdwTa1cA)!
