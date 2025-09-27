@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kal 
 
-**A Junior AI/ML Engineer**  
+**A Junior AI/ML Engineer | Blockchain & Backend Enthusiast**  
 
 - Curious and always eager to collaborate in any way.
 - Passionate about leveraging **AI and machine learning** to solve real-world problems.
@@ -23,7 +23,6 @@
 ## 📊 GitHub Stats  
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKalll&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKalll&layout=compact&theme=radical)    
-![GitHub Streak](https://streak-stats.demolab.com?user=AlexKalll&theme=radical&border_radius=5) 
 
 ---
 
@@ -31,4 +30,4 @@
 
 If you’re curious to hear more about the vision of AI from their mouth, check out 
 
-[this inspiring talk](https://youtu.be/1y3XdwTa1cA)!
+👉 [This inspiring talk](https://youtu.be/1y3XdwTa1cA)!
