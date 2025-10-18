@@ -13,11 +13,7 @@
 - Exploring **AI applications in agriculture & education**
 - Investigating the intersection of **AI and blockchain**
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
-
-## 📫 Let’s Connect  
+## 📫 Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
 📧 Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
 
 <p align="left">
@@ -37,8 +33,6 @@
 ## 📊 GitHub Stats  
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKalll&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKalll&layout=compact&theme=radical)    
-
----
 
 ⭐️ *"Building AI not just for technology’s sake, but for sustainable futures."* 
 
