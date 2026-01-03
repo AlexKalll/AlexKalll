@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Current Focus  
+## Current Focus  
 - Taking part in a dedicated community striving to achieve **AGI**
 - Applying **NLP to low-resource languages (e.g., Amharic)**  
 - Exploring **AI applications in agriculture & education**
 - Investigating the intersection of **AI and blockchain**
 
-## 📫 Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
+## Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
 📧 Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
 
 <p align="left">
@@ -30,12 +30,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKalll&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKalll&layout=compact&theme=radical)    
 
-⭐️ *"Building AI not just for technology’s sake, but for sustainable futures."* 
+ *"Building AI not just for technology’s sake, but for sustainable futures."* 
 
 If you’re curious to hear more about the vision of AI from their mouth, check out 
 
-👉 [This inspiring talk](https://youtu.be/1y3XdwTa1cA)!
+ [This inspiring talk](https://youtu.be/1y3XdwTa1cA)!
