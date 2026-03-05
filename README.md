@@ -1,6 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Kal </h1>
 
-**A Junior AI/ML Engineer | Blockchain & Backend Enthusiast**  
+**Software Engineer**  
 
 - Curious and always eager to collaborate in any way.
 - Passionate about leveraging **AI and machine learning** to solve real-world problems.
