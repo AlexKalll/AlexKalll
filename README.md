@@ -8,13 +8,12 @@
 ---
 
 ## Current Focus  
-- Taking part in a dedicated community striving to achieve **AGI**
-- Applying **NLP to low-resource languages (e.g., Amharic)**  
+- Trying to apply **NLP to low-resource languages (e.g., Amharic)**
 - Exploring **AI applications in agriculture & education**
 - Investigating the intersection of **AI and blockchain**
 
 ## Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
-📧 Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
+Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
 
 <p align="left">
  <a href="https://www.linkedin.com/in/kaletsidik-ayalew/" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
