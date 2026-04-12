@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Kal </h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm AlexK </h1>
 
 **Software Engineer**  
 
@@ -19,10 +19,10 @@ Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
  <a href="https://www.linkedin.com/in/kaletsidik-ayalew/" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
     LinkedIn<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" /> 
   </a>
-  <a href="https://t.me/Adragon_de_mello" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
+  <a href="https://t.me/Adragon_de_mell" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
     Telegram<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="20" width="30" />
   </a>
-  <a href="https://x.com/kal1995alw" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
+  <a href="https://x.com/findkal" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
     Twitter<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="20" width="30" />
   </a>
 </p>
