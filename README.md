@@ -3,14 +3,7 @@
 **Software Engineer**  
 
 - Curious and always eager to collaborate in any way.
-- Passionate about leveraging **AI and machine learning** to solve real-world problems.
-
----
-
-## Current Focus  
-- Trying to apply **NLP to low-resource languages (e.g., Amharic)**
-- Exploring **AI applications in agriculture & education**
-- Investigating the intersection of **AI and blockchain**
+- Passionate about leveraging **AI and blockchain** to solve real-world problems.
 
 ## Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
 Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
