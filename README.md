@@ -5,10 +5,10 @@
 - Curious and always eager to collaborate in any way.
 - Passionate about leveraging **AI and blockchain** to solve real-world problems.
 
-## Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
-Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
+### Let’s Connect  ![Profile views](https://komarev.com/ghpvc/?username=AlexKalll&color=blue)
 
 <p align="left">
+ My Email: findkal.here@gmail.com
  <a href="https://www.linkedin.com/in/kaletsidik-ayalew/" target="_blank" rel="noopener noreferrer" style="margin-right:15px;">
     LinkedIn<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" /> 
   </a>
@@ -21,8 +21,7 @@ Email: [findkal.here@gmail.com](mailto:findkal.here@gmail.com)
 </p>
 
 ---
-
-## GitHub Stats  
+ 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexKalll&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKalll&layout=compact&theme=radical)    
 
