@@ -1,5 +1,3 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm AlexK </h1>
-
 **Software Engineer**  
 
 - Curious and always eager to collaborate in any way.
